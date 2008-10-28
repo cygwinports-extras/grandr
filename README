@@ -1,6 +1,6 @@
 grandr
 ------------------------------------------
-Xorg GTK+ XRandR UI
+X.Org GTK+ XRandR UI
 
 Runtime requirements:
   cygwin-1.5.24-2
