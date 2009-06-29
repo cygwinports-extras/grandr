@@ -1,4 +1,4 @@
 category: Gnome X11
-requires: cygwin atk GConf2 glib2 gtk2-x11 libX11_6 libXrandr2
+requires: atk GConf2 glib2 gtk2-x11 libX11_6 libXrandr2
 sdesc: "X.Org GTK+ XRandR UI"
 ldesc: "X.Org GTK+ XRandR UI"
